@@ -1,5 +1,5 @@
 # auto-green
-
+这是一篇转载的文章，先放这里用来刷绿，原文地址稍后就来！！！！！！
 [![Build Status](https://github.com/justjavac/auto-green/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/auto-green/actions)
 
 自动保持 GitHub 提交状态常绿。
